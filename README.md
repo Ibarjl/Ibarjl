@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Python+%7C+Julia+Developer;Scientific+Computing;High-Performance+Code;Data+Science+%26+Analytics" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibarvivas)
 [![GitHub followers](https://img.shields.io/github/followers/Ibarjl?style=for-the-badge&logo=github)](https://github.com/Ibarjl)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ibarjl&style=for-the-badge&color=blueviolet)](https://github.com/Ibarjl)
 
