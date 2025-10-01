@@ -219,8 +219,18 @@ Solución de computación de alto rendimiento.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 
-**✨ Siempre abierto a colaborar en proyectos interesantes relacionados con Python, Julia, o computación científica ✨**
+<br/>
 
+**✨ Siempre abierto a colaborar en proyectos interesantes ✨**  
+**🤝 Python • Julia • Scientific Computing 🤝**
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
 </div>
 
 ---
@@ -231,3 +241,23 @@ Solución de computación de alto rendimiento.
 
 
 </div>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <defs>
+    <linearGradient id="snakeGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff0000"/>
+      <stop offset="16%" stop-color="#ff8000"/>
+      <stop offset="33%" stop-color="#ffff00"/>
+      <stop offset="50%" stop-color="#00ff00"/>
+      <stop offset="66%" stop-color="#0000ff"/>
+      <stop offset="83%" stop-color="#4b0082"/>
+      <stop offset="100%" stop-color="#9400d3"/>
+    </linearGradient>
+  </defs>
+  <path
+      stroke="url(#snakeGradient)"
+      stroke-width="10"
+      fill="none"
+      d="..."
+  />
+  <!-- Resto del SVG -->
+</svg>
