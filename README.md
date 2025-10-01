@@ -1,33 +1,12 @@
-<!--
-**Ibarjl/Ibarjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**Ibarjl/Ibarjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <div align="center">
-  
-# 🌟 Ibar E. Vivas
-# Computational Developer & Data Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=20000&color=F75C7E&center=true&vCenter=true&width=600&lines=Python+%7C+Julia+Developer;Scientific+Computing;High-Performance+Code;Data+Science+%26+Analytics" alt="Typing SVG" />
+ # Ibar E. Vivas
+ # Computational Developer & Data Enthusiast
 
-<div align="center">
 
 <!-- CABECERA CON ANIMACIÓN Y GRADIENTE -->
 
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ibar%20J.%20Lopez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computational%20Developer%20%26%20Data%20Enthusiast&descAlignY=51&descAlign=50"/> -->
 
 <!-- Gradiente SVG personalizado tipo snake segment -->
 <svg width="320" height="38" viewBox="0 0 320 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -47,11 +26,9 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=2000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Python+%7C+Julia+Developer+%F0%9F%90%8D%F0%9F%94%B4;Scientific+Computing+%E2%9A%A1;High-Performance+Code+%F0%9F%9A%80;Data+Science+%26+Analytics+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Python+%7C+Julia+Developer+%F0%9F%90%8D%F0%9F%94%B4;Scientific+Computing+%E2%9A%A1;High-Performance+Code+%F0%9F%9A%80;Data+Science+%26+Analytics+%F0%9F%93%8A" alt="Typing SVG" />
 
 <br/>
-
-
 
 <!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibarvivas)
@@ -93,39 +70,50 @@ me.say_hi()
 
 ---
 
-## 🐍 🔴 Python & Julia: Mi Stack Principal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Python & Julia: Mi Stack Principal
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 Python Ecosystem
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/> Python Ecosystem
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-**Especialidades:**
-- Data Science & ML
-- Web APIs & Automation
-- Scientific Computing
-- Testing & CI/CD
+</div>
+
+**🎯 Especialidades:**
+- 📊 Data Science & Machine Learning
+- 🌐 Web APIs & Automation
+- 🔬 Scientific Computing
+- ✅ Testing & CI/CD
 
 </td>
 <td width="50%" valign="top">
 
-### 🔴 Julia Performance
+### <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-color.svg" width="30" height="30"/> Julia Performance
+
+<div align="center">
+
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
-**¿Por qué Julia?**
-- 🚀 Velocidad cercana a C/Fortran
-- 📊 Sintaxis expresiva para matemáticas
-- 🔧 Composability & Multiple Dispatch
-- ⚡ Perfecto para HPC y simulaciones
+</div>
 
-**Uso en:**
+**⚡ ¿Por qué Julia?**
+- 🚀 Velocidad cercana a C/Fortran
+- 📐 Sintaxis expresiva para matemáticas
+- 🔧 Composability & Multiple Dispatch
+- 💻 Perfecto para HPC y simulaciones
+
+**🎯 Uso en:**
 - Optimización numérica
 - Modelado matemático
 - Análisis de datos masivos
@@ -139,125 +127,106 @@ me.say_hi()
 
 ## 🚀 Proyectos Destacados
 
+<!-- Ejemplo de proyectos destacados: agrega más según tu portfolio -->
 <table>
 <tr>
 <td width="50%">
-
-### 🐍 [Proyecto Python](https://github.com/Ibarjl/REPO1)
-Descripción breve de qué hace este proyecto y por qué es interesante.
-
-**Tech:** Python • NumPy • Pandas
-
-![Stars](https://img.shields.io/github/stars/Ibarjl/REPO1?style=social)
-
+<h3 align="center">🐍 Proyecto Python</h3>
+<div align="center">
+<a href="https://github.com/Ibarjl/REPO1" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibarjl&repo=REPO1&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+<p>
+<a href="https://github.com/Ibarjl/REPO1" target="_blank">
+<img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="https://github.com/Ibarjl/REPO1" target="_blank">
+<img src="https://img.shields.io/badge/⭐-gray?style=for-the-badge"/>
+</a>
+</p>
+<p><strong>Python • NumPy • Pandas</strong></p>
+</div>
 </td>
 <td width="50%">
-
-### 🔴 [Proyecto Julia](https://github.com/Ibarjl/REPO2)
-Descripción de tu proyecto Julia de alto rendimiento.
-
-**Tech:** Julia • Plots.jl • DataFrames.jl
-
-![Stars](https://img.shields.io/github/stars/Ibarjl/REPO2?style=social)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 [Análisis de Datos](https://github.com/Ibarjl/REPO3)
-Pipeline completo de análisis desde raw data hasta insights.
-
-**Tech:** Python • Scikit-learn • Visualization
-
-</td>
-<td width="50%">
-
-### ⚡ [HPC Solution](https://github.com/Ibarjl/REPO4)
-Solución de computación de alto rendimiento.
-
-**Tech:** Julia • Parallel Computing
-
+<h3 align="center">🔴 Proyecto Julia</h3>
+<div align="center">
+<a href="https://github.com/Ibarjl/REPO2" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibarjl&repo=REPO2&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+<p>
+<a href="https://github.com/Ibarjl/REPO2" target="_blank">
+<img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="https://github.com/Ibarjl/REPO2" target="_blank">
+<img src="https://img.shields.io/badge/⭐-gray?style=for-the-badge"/>
+</a>
+</p>
+<p><strong>Julia • Plots.jl • DataFrames.jl</strong></p>
+</div>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack Completo
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Tools & Platforms
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Databases & Cloud
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analytics & Trophies
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibarjl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibarjl&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ibarjl&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ibarjl&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ibarjl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibarjl&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibarjl&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10" width="50%"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibarjl&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ibarjl&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" width="100%"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-[![Ibar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ibarjl&theme=react-dark&hide_border=true)](https://github.com/Ibarjl)
-
----
-
-## 💡 Quote of the Day
+## 💡 Frase Dev
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Write%20code%20that%20is%20as%20simple%20as%20possible,%20but%20not%20simpler.&author=Albert%20Einstein" width="70%"/>
 
 </div>
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Conecta Conmigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibarvivas)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <br/>
 
@@ -266,38 +235,9 @@ Solución de computación de alto rendimiento.
 
 </div>
 
-<br/>
+---
 
+<!-- Footer opcional: otro gradiente si gustas -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
-</div>
-
----
-
-<div align="center">
-  
-### 🎯 "Write code that is as simple as possible, but not simpler."
-
-
-</div>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-  <defs>
-    <linearGradient id="snakeGradient" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ff0000"/>
-      <stop offset="16%" stop-color="#ff8000"/>
-      <stop offset="33%" stop-color="#ffff00"/>
-      <stop offset="50%" stop-color="#00ff00"/>
-      <stop offset="66%" stop-color="#0000ff"/>
-      <stop offset="83%" stop-color="#4b0082"/>
-      <stop offset="100%" stop-color="#9400d3"/>
-    </linearGradient>
-  </defs>
-  <path
-      stroke="url(#snakeGradient)"
-      stroke-width="10"
-      fill="none"
-      d="..."
-  />
-  <!-- Resto del SVG -->
-</svg>
