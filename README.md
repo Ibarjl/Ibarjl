@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
 
 <!--
 **Ibarjl/Ibarjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,19 +19,55 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-# 🌟 Ibar - Computational Developer & Data Enthusiast
+# 🌟 Ibar E. Vivas
+# Computational Developer & Data Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Python+%7C+Julia+Developer;Scientific+Computing;High-Performance+Code;Data+Science+%26+Analytics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=20000&color=F75C7E&center=true&vCenter=true&width=600&lines=Python+%7C+Julia+Developer;Scientific+Computing;High-Performance+Code;Data+Science+%26+Analytics" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibarvivas)
-[![GitHub followers](https://img.shields.io/github/followers/Ibarjl?style=for-the-badge&logo=github)](https://github.com/Ibarjl)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ibarjl&style=for-the-badge&color=blueviolet)](https://github.com/Ibarjl)
+<div align="center">
+
+<!-- CABECERA CON ANIMACIÓN Y GRADIENTE -->
+
+
+<!-- Gradiente SVG personalizado tipo snake segment -->
+<svg width="320" height="38" viewBox="0 0 320 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="snake-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="50%" stop-color="#4ecdc4"/>
+      <stop offset="100%" stop-color="#45b7d1"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="6" width="60" height="26" rx="13" fill="url(#snake-gradient)" />
+  <rect x="80" y="6" width="60" height="26" rx="13" fill="url(#snake-gradient)" />
+  <rect x="150" y="6" width="60" height="26" rx="13" fill="url(#snake-gradient)" />
+  <rect x="220" y="6" width="60" height="26" rx="13" fill="url(#snake-gradient)" />
+</svg>
+
+<br/>
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=2000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Python+%7C+Julia+Developer+%F0%9F%90%8D%F0%9F%94%B4;Scientific+Computing+%E2%9A%A1;High-Performance+Code+%F0%9F%9A%80;Data+Science+%26+Analytics+%F0%9F%93%8A" alt="Typing SVG" />
+
+<br/>
+
+
+
+<!-- Social links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibarvivas)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibarjl)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ibarjl&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/Ibarjl)
+
+<br/>
+
+<!-- GIF decorativo opcional -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300">
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Sobre mí
 
 ```python
 class Developer:
@@ -41,15 +76,20 @@ class Developer:
         self.role = "Software Development Engineer"
         self.primary_languages = ["Python 🐍", "Julia 🔴"]
         self.interests = ["Scientific Computing", "Data Analysis", "HPC"]
+        self.currently_learning = ["Advanced Algorithms", "Distributed Systems"]
+        self.fun_fact = "I write code that's faster than my coffee gets cold ☕"
     
     def say_hi(self):
-        print("¡Gracias por visitar mi perfil! Construyendo soluciones eficientes y elegantes.")
+        print("¡Gracias por visitar mi perfil!")
+        print("Construyendo soluciones eficientes y elegantes 🚀")
 
 me = Developer()
 me.say_hi()
 ```
 
-Apasionado por la **computación científica** y el **desarrollo de alto rendimiento**. Especializado en Python para versatilidad y Julia para velocidad extrema. Siempre buscando la intersección perfecta entre elegancia de código y eficiencia computacional.
+> 💡 Apasionado por la **computación científica** y el **desarrollo de alto rendimiento**.  
+> Especializado en **Python** para versatilidad y **Julia** para velocidad extrema.  
+> Siempre buscando la intersección perfecta entre elegancia de código y eficiencia computacional.
 
 ---
 
