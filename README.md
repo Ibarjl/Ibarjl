@@ -229,6 +229,5 @@ Solución de computación de alto rendimiento.
   
 ### 🎯 "Write code that is as simple as possible, but not simpler."
 
-![Snake animation](https://raw.githubusercontent.com/Ibarjl/Ibarjl/output/github-contribution-grid-snake-dark.svg)
 
 </div>
